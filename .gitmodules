@@ -1,0 +1,3 @@
+[submodule "yolact"]
+	path = yolact
+	url = git@github.com:plarr2020-team1/yolact.git
